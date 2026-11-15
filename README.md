@@ -18,8 +18,8 @@ I left out sex and foreign worker status, because UK lenders can't base decision
 | Measure | Value |
 |---|---|
 | Default rate (all loans) | 30.0% |
-| AUC / Gini (full model) | 0.80 / 0.60 |
-| AUC / Gini (current account only) | 0.72 / 0.44 |
+| AUC / Gini (full model) | 0.80 / 0.59 |
+| AUC / Gini (current account only) | 0.72 / 0.45 |
 | Default rate, two safest bands (A, B) | 11.7%, 8.3% |
 | Default rate, riskiest band E | 66.7% |
 | Expected loss (300 test loans) | 166,273 DM (16.1% of 1,030,647 DM exposure) |
